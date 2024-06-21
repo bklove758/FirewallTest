@@ -1,0 +1,2 @@
+Test
+git config --global core.compression 0    
